@@ -1,0 +1,27 @@
+{
+  "name": "villageventure",
+  "version": "1.0.0",
+  "description": "Welcome to VillageVenture, an immersive Discord bot game where community collaboration meets adventurous village-building. Embark on a journey with your fellow server members to create and evolve a thriving village from the ground up.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitdip/villageventure.git"
+  },
+  "keywords": [
+    "settlement",
+    "rpg",
+    "community"
+  ],
+  "author": "John Ross Valderama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitdip/villageventure/issues"
+  },
+  "homepage": "https://github.com/nitdip/villageventure#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
